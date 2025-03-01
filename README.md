@@ -1,7 +1,7 @@
 # MQTT ESP Rust Example
 
-This repository provides an example of using **MQTT** on **ESP32** with **Rust**, including **TLS support** for secure communication.
-This repo only supports **MQTT3** now. I'm planning for **MQTT5** in the future.
+- This repository provides an example of using **MQTT** on **ESP32** with **Rust**, including **TLS support** for secure communication.
+- This repo only supports **MQTT3** now. I'm planning for **MQTT5** in the future.
 
 ## Features
 - Connect ESP32 to an MQTT broker using **Rust**.
